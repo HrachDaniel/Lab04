@@ -1,0 +1,45 @@
+<!doctype html> 
+     <html> 
+<head> 
+   <meta charset="utf-8"> 
+   <title>Рядок, що біжить</title> 
+</head>   
+<BODY BАCKGRОUND="..\image\fon.jpg" TEXT="#000000"> 
+   <P ALІGN="CENТER"> 
+    <MARQUEE  DIRECTION="DOWN" width=300 BGCOLOR="#FF0000" HEIGHT=900 BEHAVIOR="ALTERNATE" SCROLLAMOUNT="10">  
+        <FONT colоr="#000000" FACE="Verdаna" Size="4"> <B> <I> 
+                 ПРИКЛАД РЯДКА, ЩО БІЖИТЬ 1 
+        </I></В>
+        </FONT> 
+    </MARQUEE> 
+  
+    <MARQUEE  DIRECTION="DOWN" width=300 BGCOLOR="#FFFF00" HEIGHT=900 BEHAVIOR="SCROLL" SCROLLAMOUNT="10">  
+        <FONT colоr="#000000" FACE="Verdаna" Size="4"> <B>  
+                 ПРИКЛАД РЯДКА, ЩО БІЖИТЬ 2  
+        </В>
+        </FONT> 
+    </MARQUEE> 
+    
+    <MARQUEE  DIRECTION="DOWN" width=300 BGCOLOR="#FFF0F0" HEIGHT=900 BEHAVIOR="SLIDE" SCROLLAMOUNT="10">  
+        <FONT colоr="#000000" FACE="Verdаna" Size="4"> <B>  
+                 ПРИКЛАД РЯДКА, ЩО БІЖИТЬ 3  
+        </В>
+        </FONT> 
+    </MARQUEE> 
+ 
+    <MARQUEE  DIRECTION="DOWN" width=300 BGCOLOR="#F0F0F0" HEIGHT=900 BEHAVIOR="ALTERNATE" SCROLLAMOUNT="12" SCROLLDELAY="90">  
+        <FONT colоr="#000000" FACE="Verdаna" Size="4"> <B>  
+                 ПРИКЛАД РЯДКА, ЩО БІЖИТЬ 4  
+        </В>
+        </FONT> 
+    </MARQUEE> 
+
+    <MARQUEE  DIRECTION="DOWN" width=300 BGCOLOR="#B0B0B0" HEIGHT=900 BEHAVIOR="ALTERNATE" SCROLLAMOUNT="12" SCROLLDELAY="95">  
+        <FONT colоr="#000000" FACE="Verdаna" Size="4"> <B>  
+                 ПРИКЛАД РЯДКА, ЩО БІЖИТЬ 5 
+        </В>
+        </FONT> 
+    </MARQUEE> 
+    </P>
+</bоdy> 
+     </html>
